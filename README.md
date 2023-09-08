@@ -4,6 +4,7 @@
 
 <h3>I'm Currently:</h3>
 <ul>
+  <li>💼 #OpenToWork, I'm Looking to join a new team! Reach out on LinkedIn (Link Below)</li>
   <li>📚 Studying Algorithms</li>
   <li>👨‍💻 Working on Personal Projects</li>
   <li>🛸 Flying Drones</li>
