@@ -7,7 +7,7 @@
   <li>💼 #OpenToWork, I'm Looking to join a new team! Reach out on LinkedIn (Link Below)</li>
   <li>📚 Studying Algorithms and Data Structures</li>
   <li>👨‍💻 Working on Personal Projects</li>
-  <li>🛸 Flying Drones</li>
+  <li>🛸 Building and Flying Drones</li>
 </ul>
 
 <hr />
