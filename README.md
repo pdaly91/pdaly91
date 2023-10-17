@@ -2,6 +2,12 @@
 
 <h1>Hi there 👋 I'm Patrick, a Full-Stack Software Engineer</h1>
 
+<h2>Check Out My Portfolio:
+  <a href="https://patrickdaly.dev">
+    PatrickDaly.dev
+  </a>
+</h2>
+
 <h3>I'm Currently:</h3>
 <ul>
   <li>💼 #OpenToWork, I'm Looking to join a new team! Reach out on LinkedIn (Link Below)</li>
