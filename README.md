@@ -2,14 +2,9 @@
 
 <h1>Hi there 👋 I'm Patrick, a Full-Stack Software Engineer</h1>
 
-<h3>Check Out My Portfolio:
-  <a href="https://patrickdaly.dev">
-    PatrickDaly.dev
-  </a>
-</h3>
-
-<h3>I'm Currently:</h3>
+<h3>About Me:</h3>
 <ul>
+  <li>💻 Check Out My <a href="https://patrickdaly.dev">Portfolio Website</a></li>
   <li>💼 #OpenToWork, I'm Looking to join a new team! Reach out on LinkedIn (Link Below)</li>
   <li>📚 Studying Algorithms and Data Structures</li>
   <li>👨‍💻 Working on Personal Projects</li>
