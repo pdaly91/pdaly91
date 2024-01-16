@@ -5,7 +5,7 @@
 <h3>About Me:</h3>
 <ul>
   <li>💻 Check Out My <a href="https://patrickdaly.dev">Portfolio Website</a></li>
-  <li>💼 #OpenToWork, I'm Looking to join a new team! Reach out on LinkedIn (Link Below)</li>
+  <li>💼 Currently working as a Web Developer at AAT Bioquest</li>
   <li>📚 Studying Algorithms and Data Structures</li>
   <li>👨‍💻 Working on Personal Projects</li>
   <li>🛸 Building and Flying Drones</li>
