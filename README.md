@@ -4,8 +4,7 @@
 
 <h3>About Me:</h3>
 <ul>
-  <li>💻 Check Out My <a href="https://patrickdaly.dev">Portfolio Website</a></li>
-  <li>💼 Currently working as a Web Developer at AAT Bioquest</li>
+  <li>💼 Currently working as a Full Stack Developer at AAT Bioquest</li>
   <li>📚 Studying Algorithms and Data Structures</li>
   <li>👨‍💻 Working on Personal Projects</li>
   <li>🛸 Building and Flying Drones</li>
